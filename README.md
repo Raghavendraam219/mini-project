@@ -1,3 +1,3 @@
-# mini-project
+# Mini-project
 
 contact management
