@@ -51,5 +51,6 @@ The application stores phone number ,email address ,location and name of the per
 
 |ID	 | Description	        | Status     |
 |----|----------------------|------------|
-|HR01|create contact details |IMPLEMENTED|
-|----|----------------------|------------|
+|HR01|Create contact details|IMPLEMENTED|
+|HR02|List all Contact	    |IMPLEMENTED|
+|HR03|Search for particular contact	|IMPLEMENTED|
