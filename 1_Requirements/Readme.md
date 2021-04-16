@@ -28,3 +28,19 @@ Ubuntu or Windows OS required with C compiler pre installed.
 ![Capture1](https://user-images.githubusercontent.com/73216258/115009121-9035eb80-9ec9-11eb-986b-d57fb54ad148.PNG)
 
 
+# 4W's and 1H
+
+## WHO:
+For those who want a dedicated application where they can store contacts.
+
+## WHAT:
+It's not easy to remember all the phone numbers so this application can be used to store it.
+
+## WHEN:
+This application is helpful when you don't remember a person's contact number or his/her email address.
+
+## WHERE:
+This application can be used by any person who needs to store contact numbers.
+
+## HOW:
+The application stores phone number ,email address ,location and name of the person whose contact need to be saved.
