@@ -1,6 +1,9 @@
 # Mini-project
 
 ## Contact Management:
+[![CI](https://github.com/Raghavendraam219/mini-project/actions/workflows/main.yml/badge.svg)](https://github.com/Raghavendraam219/mini-project/actions/workflows/main.yml)
+
+
 
 #### Introduction:
 In the era of cellphone nobody uses handwritten phonebooks, as this is the present situation contacts need to be stored.
