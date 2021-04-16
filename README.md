@@ -3,6 +3,7 @@
 ## Contact Management:
 [![CI](https://github.com/Raghavendraam219/mini-project/actions/workflows/main.yml/badge.svg)](https://github.com/Raghavendraam219/mini-project/actions/workflows/main.yml)
 [![Contribution Check - Git Inspector](https://github.com/Raghavendraam219/mini-project/actions/workflows/git_inscpector.yml/badge.svg)](https://github.com/Raghavendraam219/mini-project/actions/workflows/git_inscpector.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/Raghavendraam219/mini-project/actions/workflows/Cpp_check.yml/badge.svg)](https://github.com/Raghavendraam219/mini-project/actions/workflows/Cpp_check.yml)
 
 
 #### Introduction:
