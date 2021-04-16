@@ -1,6 +1,6 @@
 # Mini-project
 
-##contact management:
+## contact management:
 
 #### Introduction:
 In the era of cellphone nobody uses handwritten phonebooks, as this is the present situation contacts need to be stored.
