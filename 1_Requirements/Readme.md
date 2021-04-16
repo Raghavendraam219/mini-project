@@ -24,4 +24,7 @@ local storage of 10GB or above
 Ubuntu or Windows OS required with C compiler pre installed.
 
 ## SWOT ANALYSIS
-|Strength    | Weakness   |
+
+![Capture1](https://user-images.githubusercontent.com/73216258/115009121-9035eb80-9ec9-11eb-986b-d57fb54ad148.PNG)
+
+
