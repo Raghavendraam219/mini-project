@@ -56,3 +56,15 @@ The application stores phone number ,email address ,location and name of the per
 |HR03|Search for particular contact	|IMPLEMENTED|
 |HR04|	Edit Contact	      |IMPLEMENTED|
 |HR05|Delete Contact	      |IMPLEMENTED |
+
+## Low level requirements:
+
+|ID	 | Description	        | Status     |
+|----|----------------------|------------|
+|LR01|Enter name, phone number, location of the person and email address of the person whose contact neeed ti be saved.|IMPLEMENTED|
+|LR02|List all Contacts availabe in the contact.dll file where all the contacts are saved in alphabetical order.|IMPLEMENTED|
+|LR03|Searching a particular name or multiple name in list.|IMPLEMENTED|
+|LR04|Editing contact option will search for contact in the file. If it contains in the list it will edit otherwise it will show not found. |IMPLEMENTED|
+|LR05|Unwanted contact can be deleted anytime by choosing proper functionality.     |IMPLEMENTED |
+
+
