@@ -49,5 +49,7 @@ The application stores phone number ,email address ,location and name of the per
 # Detail requirements
 ## High Level Requirements:
 
-|ID	 | Description	 | Status |
-|----|---------------|--------|
+|ID	 | Description	        | Status     |
+|----|----------------------|------------|
+|HR01|create contact details |IMPLEMENTED|
+|----|----------------------|------------|
